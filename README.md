@@ -2,6 +2,6 @@
 
 🎯 Goals: For now my goal is to learn Java, Web Dev, and Flutter for my subjects.
 
-🚀 Skills: Beginner in Java, Web Dev, and a little knowledge in Flutter and some basics of SQL.
+🚀 Skills: Beginner in Java, Web Dev, and a little knowledge in Flutter and some basics of MySQL.
 
 📫 Contact: example@example.com
